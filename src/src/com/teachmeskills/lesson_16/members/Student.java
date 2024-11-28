@@ -5,7 +5,7 @@ import java.util.Objects;
 public class Student {
 
     private String name ;
-    private int id;  ;
+    private int id;
     private String sex;
     private String status;
 
